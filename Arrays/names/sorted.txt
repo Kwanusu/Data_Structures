@@ -1,0 +1,10 @@
+sample_names = [
+    "Alice", "Bob", "Charlie", "David", "Eve", "Frank", "Grace", "Hank", "Ivy", "Jack", 
+    "Karen", "Leo", "Mona", "Nina", "Oscar", "Paul", "Quinn", "Rita", "Steve", "Tina",
+    "Uma", "Vera", "Will", "Xena", "Yara", "Zane", "Amelia", "Benjamin", "Chloe", "Dylan",
+    "Ella", "Felix", "Gabriel", "Hannah", "Isaac", "Julia", "Kyle", "Lily", "Mason", "Nora",
+    "Owen", "Piper", "Quincy", "Ruby", "Sam", "Tara", "Ulysses", "Violet", "Wade", "Xander",
+    "Yvonne", "Zachary", "Angela", "Brian", "Catherine", "Daniel", "Elena", "Frederick", "Gloria", 
+    "Henry", "Isla", "James", "Kelly", "Lucas", "Maria", "Nathan", "Olivia", "Peter", "Quintin",
+    "Rachel", "Simon", "Tracy", "Ulrich", "Victoria", "Wendy", "Xavier", "Yolanda", "Zoe",
+]
